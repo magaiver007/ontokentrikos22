@@ -7,6 +7,8 @@ public class Menu {
     private static int loggedUserIndex;
     private static UserType loggedUserType;
     
+
+//kanei arxikopoihsh toy admin 
     public static void initAdmin(){
        organization = new Organization("name", new Admin("Admin", "00"));
     }
@@ -15,6 +17,8 @@ public class Menu {
         return organization;
     }
 
+//login to opoio elegxei an to thlefwno antistoixei se kapoion user
+//
     public static void loginUser(){
         boolean logged = false;
         while(logged == false){
@@ -60,6 +64,7 @@ public class Menu {
         }
     }
     
+//an den exei ikanopoihthei kamia apo tis parapanw epiloges to programma paei sto register
     private static boolean register(String phone){
         try{
             System.out.print("Do you want to register? (1 yes, 2 no): ");
@@ -117,6 +122,7 @@ public class Menu {
         }
     }
     
+    //to main menu toy donator
     private static void donatorMainMenu(){
         int input = -1;
         while(input != 4){
@@ -248,6 +254,7 @@ public class Menu {
                 System.out.println("1. Select offer");
                 System.out.println("2. Clear offers");
                 System.out.println("3. commit");
+                System.out.print("Choose from 1-3 according to the options above: ");
                 Scanner sc = new Scanner(System.in);
                 input = sc.nextInt();
                 if(input <= 0 || input > 3){
@@ -347,13 +354,9 @@ public class Menu {
                             selectionBeneficiary2();
                             break;
                         case 3:
-                            Beneficiary beneficiary = organization.getBeneficiaryWithGivenIndex(loggedUserIndex);
-                            beneficiary.commit(organization.getCurrentDonations(), organization.getEntities());
-                            break;
-                        case 4:
                             loginUser();
                             break;
-                        case 5:
+                        case 4:
                             System.out.println("\n\nExit\n\n");
                             System.exit(0);
                         default:

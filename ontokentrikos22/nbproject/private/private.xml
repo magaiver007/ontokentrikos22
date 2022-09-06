@@ -2,30 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Donator.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/InvalidRequest.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Menu.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Admin.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Entity.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/RequestDonation.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/UserInListException.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/User.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/EntityExists.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/EntityCategory.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Requests.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Beneficiary.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Organization.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Ontokentrikos22.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Service.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/UserType.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Material.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/Offers.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/RequestDonationList.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/InvalidMenuSelectionException.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/EntityDoesNotExist.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/donname.java</file>
-            <file>file:/C:/Users/Magaiver/Desktop/New%20folder%20(4)/ontokentrikos22/src/ontokentrikos22/RequestNotValid.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

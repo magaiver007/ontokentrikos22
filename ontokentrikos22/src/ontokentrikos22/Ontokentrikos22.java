@@ -10,7 +10,8 @@ package ontokentrikos22;
  */
 public class Ontokentrikos22 {
 
-
+//arxikopoihsh materials services beneficiary donator kai admin me thn initAdmin function
+//prwta ginetai h init poy phgainei sthn menu.java
     public static void main(String[] args) {
         Menu.initAdmin();
         Menu.getOrganization().addEntity(new Material(1,"Milk,", "Milk", 7, 4, 5));
